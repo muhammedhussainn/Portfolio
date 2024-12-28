@@ -123,19 +123,19 @@ const MySkillsPage = () => {
             <Description>
                 <strong>Skills</strong>
                 <p>
-                    C, Python, JavaScript, CSS, HTML, ReactJS, Flutter, Pytorch, MySQL
+                    C, Python, JavaScript, CSS, HTML, ReactJS, Flutter, MySQL
                 </p>
             </Description>
             <Description>
                 <strong>Tools</strong>
                 <p>
-                    Android Studio, XAMPP, Jupyter Notebook, GitHub
+                    Android Studio, Jupyter Notebook, GitHub
                 </p>
             </Description>
             <Description>
                 <strong>Machine Learning</strong>
                 <p>
-                    CNN (Convolutional Neural Networks)
+                    CNN ,Pytorch
                 </p>
             </Description>
         </Main>
