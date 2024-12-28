@@ -117,9 +117,9 @@ const MySkillsPage = () => {
             <Title>
                 <Develope width={40} height={40} /> Frontend Developer
             </Title>
-            <Description>
+            {/* <Description>
                 I value business or brand for which I'm creating, thus I enjoy bringing new ideas to life.
-            </Description>
+            </Description> */}
             <Description>
                 <strong>Skills</strong>
                 <p>
